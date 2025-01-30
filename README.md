@@ -1,7 +1,7 @@
 # Uber-Case-Study
 
 
-#Uber's Quest for Legitimacy in Digital Disruption: A case of Uber(A)  
+##Uber's Quest for Legitimacy in Digital Disruption: A case of Uber(A)  
 
 This case study analyzes Uber’s transformation of the transportation industry, focusing on its disruptive business model, two-sided marketplace, and strategies to navigate regulatory, competitive, and operational challenges. It explores how Uber leveraged technology to scale globally while facing resistance from regulators, labor disputes, and pricing controversies.  
 
