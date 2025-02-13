@@ -11,3 +11,4 @@ This case study analyzes Uber’s transformation of the transportation industry,
 - **Collaboration & Teamwork** – Worked effectively with team members to research, analyze, and present key insights cohesively.  
 - **Presentation & Visual Communication** – Designed engaging, well-structured slides that received commendation from the professor for clarity and impact.  
 - **Problem-Solving & Strategic Thinking** – Identified challenges and proposed actionable recommendations to address Uber’s regulatory and operational issues.  
+<img width="1024" alt="Screenshot 2025-02-13 at 1 57 10 PM" src="https://github.com/user-attachments/assets/9b5ad086-bc7f-49a3-8003-8462d9d2ea23" />
